@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>heading</title>
+    </head>
+    <body>
+        <h1>heading 1</h1>
+        <h2>heading 2</h2>
+        <h3>heading 3</h3>
+        <h4>heading 4</h4>
+        <h5>heading 5</h5>
+        <h6>heading 6</h6>
+    </body>
+
+    <html>
+        <head>
+            <title>break</title>
+        </head>
+        <body>
+            <h1>welcome to webpage</h1><break>
+            <h2>welcome to webpage</h2>
+            </html>
+            
+            </head>
+            <body>
+                <a href="https://www.google.com/">google</a>
+            </body>
+            </html>
+    
+            <html>
+                <head>
+                    <title>table form</title>
+                    <tr>
+                        <th>team</th>
+                        <th>city</th>
+                        <th>home ground</th>
+                        <th>debut</th>
+                        <th>owner</th>
+                        </tr>
+                        <tr>
+                            <th>csk</th>
+                            <th>chennai,tamilnadu</th>
+                            <th>k.sijijiii</th>
+                            <th>2008</th>
+                            <th>N.srinivaasan</th>
+                            </tr>
+                            <tr>
+                                <th>delhi capitals</th>
+                                <th>new delhi</th>
+                                <th>k.bhavya</th>
+                                <th>      </th>
+                                <th><ol type="circle">
+                                    <li>sajjan jindal</li>
+                                    <li>t.rushii</li>/th>
+                                </tr>
+                                <tr>
+                                    <th>gujarat titans</th>
+                                    <th>gujarat</th>
+                                    <th>A.manasa</th>
+                                    <th>2004</th>
+                                    <th>ol type="circle">
+                                        <li>ssss</li>
+                                        <li>mmmmm</li></th>
+                                        </tr>
+                                        <tr>
+                                            <th>kolkata</th>
+                                            <th>klk</th>
+                                            <th>a.angel</th>
+                                            <th>2006</th>
+                                            <th><ol type="circle">
+                                                <li>sssmms</li>
+                                                <li>mmmmmjjj</li></<th>
+                                                </tr>
+                                                <tr>
+                                                    <th>lucknowndn</th>
+                                                    <th>lucknow</th>
+                                                    <th>mnb</th>
+                                                    <th>2014</th>
+                                                    <th><ol type="1">
+                                                        <li>ssss</li>
+                                                        <li>mmmmm</li></th>
+                                                </tr>
+                                            </body>
+                                            </head>
+                                            </html>
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
