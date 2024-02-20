@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title>bs</title>
+    <fileldset>
+        <legend>personal details</legend>
+        <label for="">first name</label>
+        <input type="text">
+        <label for="">last name</label>
+        <input type=""text"><br><br>
+        <label for="">dob</</label>
+        <input type="data"name=""id=""><br>
+        <label for="">gender</label>
+        <input type="data"name="gender">male
+        <input for="">gender</label>
+        <input type="radio"name="gender">female<br><br>
+        <label for="">qualification</label>
+        <input type="text">
+    </fieldset>
+    <select name=""id="">
+        <option value="">cse</option>
+        <option value="">ece</option>
+        <option value="">eee</option>
+    </select >
+    <select name=""id="">
+        <optgroup label="bachelors">
+            <option value="">cse</option>
+                <option value="">ece</option>
+                <option value="">eee</option>
+        </select>
+        <select label="masters">
+            <optgroup label="masters"
+            <option value="">mca</option>
+            <option value="">mba</option>
+            </optgroup>
+            </select>
+            </head>
+            </html>
